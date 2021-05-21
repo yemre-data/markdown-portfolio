@@ -1,7 +1,13 @@
 ---
 layout: default
 ---
+# Yunus Emre Celik
 
+## Table of Contents:
+- Educations
+- Experience
+- Projects
+- Hobies
 {% include 01-name.md %}
 
 <br>
