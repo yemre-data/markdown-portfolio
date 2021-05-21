@@ -1,1 +1,1 @@
-https://github.com/yemre-data
+[github] https://github.com/yemre-data
